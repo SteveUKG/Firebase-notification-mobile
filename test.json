@@ -1,0 +1,13 @@
+{
+    "type": "test_account",
+    "project_id": "test123", //important
+    "private_key_id": "xxxx",
+    "private_key": "-----BEGIN PRIVATE KEY-----xxxxx-----END PRIVATE KEY-----\n", //imp
+    "client_email": "----", //imp
+    "client_id": "....",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "xxx": "https://www.googleapis.com/oauth2/v1/certs",
+    "xxxyy": "....",
+    "universe_domain": "googleapis.com"
+  }
