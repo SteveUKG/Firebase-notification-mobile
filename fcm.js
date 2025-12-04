@@ -4,6 +4,7 @@ var trigger_notif = function () {
   var serverKey = require("../Firebase-notification-new/test.json"); //put the generated private key path here
 
   var fcm = new FCM(serverKey);
+  var test = 123;
 
   var message = {
     message: {
